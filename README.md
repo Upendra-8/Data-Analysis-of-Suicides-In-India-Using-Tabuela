@@ -1,4 +1,4 @@
-# Data-Analysis-of-Suicides-In-India-Using-Tabuela
+# Data-Analysis-of-Suicides-In-India-Using-Tableau
 Welcome to the repository for the "Suicide in India Visualizations using Tableau" project. This project aims to provide comprehensive insights into the patterns and trends of suicide cases in India from 2001 to 2012. By leveraging the power of Tableau, we have created interactive visualizations that allow users to explore various aspects of suicide data, including demographics, causes, and regional distribution.
 
 Project Structure:
